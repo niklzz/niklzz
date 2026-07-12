@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: niklzz
           base: activity, community, repositories, metadata
-          config_timezone: Europe/Moscow
+          config_timezone: Asia/Nicosia
 
           plugin_languages: yes
           plugin_languages_sections: most-used
